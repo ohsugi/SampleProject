@@ -1,2 +1,7 @@
 ﻿こんにちはここを編集して行きます。
+<<<<<<< HEAD
 ぐろ：こんにちは
+=======
+私の名前はmasato-ka
+testddddddd
+>>>>>>> 7b66264bf37edaff3a8ea5f466528ed95a911ffd
